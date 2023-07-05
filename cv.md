@@ -10,20 +10,20 @@ Yaroslav Zastolskiy
 - VK: https://vk.com/fi0uf
 
 ## 3. Brief information about yourself
-Я студентка второго курса Белорусско-Российского университета. Моя цель – постоянный рост и развитие. Я считаю, что обучение и получение новых знаний являются ключевыми элементами успеха.
-Я постоянно хочу учиться и получать новые знания и опыт. Имея страсть к обучению, а также умение адаптироваться к новым вызовам, я уверен в своей способности внести значимый вклад в любой проект.
+I am a second-year student of the Belarusian-Russian University. My goal is constant growth and development. I believe that learning and gaining new knowledge are the achievements of success.
+I want to constantly learn and gain new knowledge and experience. With a passion for satisfaction as well as a propensity to meet new challenges, I am confident in my ability to make a meaningful contribution to any project.
 
 ## 4. Skills
 Hard skills:
-- Языки программирования: C#.
-- Средства разработки: Visual Studio, Visual Studio Code.
+- Programming languages: C#.
+- Development tools: Visual Studio, Visual Studio Code.
    
 Soft skills:
-- Решение проблем: способность анализировать сложные проблемы и находить наилучшие решения.
-- Адаптивность: быть гибким и открытым для изучения новых языков программирования, фреймворков и инструментов по мере развития технологий.
-- Командная работа: сотрудничество с другими людьми, участие в групповых проектах.
-- Аналитическое мышление: применение навыков логического мышления  для анализа проблем и принятия верных решений.
-- Непрерывное обучение: готовность быть в курсе последних тенденций, инструментов и методов в области разработки программного обеспечения.
+- Problem solving: the ability to analyze complex problems and find the best solutions.
+- Adaptability: be flexible and open to learning new programming languages, frameworks and tools as technology evolves.
+- Teamwork: cooperation with other people, participation in group projects.
+- Analytical thinking: applying logical thinking skills to analyze problems and make the right decisions.
+- Continuous learning: willingness to keep abreast of the latest trends, tools and methods in software development.
   
 
 ## 5. Code examples
@@ -61,11 +61,11 @@ namespace ConsoleApp
 }
 
 ## 6. Work experience and training projects
-Закончил второй курс белорусско-российского университета.
+I graduated from the second year of the Belarusian-Russian University.
 
 ## 7. Languages
-Русский - Родной
-Английский - А1 Начальный
+Russian - Native
+English - A1 Beginner
 
 ## 8. Photo
 
