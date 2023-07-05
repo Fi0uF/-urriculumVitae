@@ -59,7 +59,7 @@ namespace ConsoleApp
             }
             Console.ReadKey();
 }
-
+```
 ## 6. Work experience and training projects
 I graduated from the second year of the Belarusian-Russian University.
 
@@ -68,4 +68,4 @@ Russian - Native
 English - A1 Beginner
 
 ## 8. Photo
-
+![photo](/image.jpg)
