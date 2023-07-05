@@ -64,8 +64,8 @@ namespace ConsoleApp
 I graduated from the second year of the Belarusian-Russian University.
 
 ## 7. Languages
-Russian - Native
-English - A1 Beginner
+- Russian - Native
+- English - A1 Beginner
 
 ## 8. Photo
 ![photo](/image.jpg)
